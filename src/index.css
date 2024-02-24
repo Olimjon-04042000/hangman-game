@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 650px;
+    margin: 50px auto;
+}
+
+.letters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.letter {
+    width: 40px;
+    height: 40px;
+    padding: 0 10px;
+}
