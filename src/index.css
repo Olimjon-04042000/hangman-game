@@ -20,3 +20,18 @@
     height: 40px;
     padding: 0 10px;
 }
+
+.counrty-letter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    border: 1px solid black;
+    height: 40px;
+}
+
+.letter-box {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
